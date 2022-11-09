@@ -38,3 +38,4 @@ The review of the election shows that:
 ## Challenge Summary
 I wrote this script to analyze the results of a specific election, but it can still be refactored to investigate a different election in the future. All the Colorado Board of Elections would need to do is set up a repository to store the election results, a copy of this script, and a text file for the analysis output to print. Once this repository is set up, all the board would need to do is normalize the references in the script to match the election results CSV input file name and the text file output.
 
+![file_names.png](https://github.com/skyeryser/Election_Analysis/blob/main/Resources/file_names.png)
